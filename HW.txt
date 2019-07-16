@@ -1,3 +1,3 @@
-print("HW")
-print("Hello")
-print("Hello ev")
+print("HW;")
+print("Hello;")
+print("Hello ev;")
